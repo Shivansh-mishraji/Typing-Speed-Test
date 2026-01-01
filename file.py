@@ -1,5 +1,9 @@
+# Import Libraries
+
 from time import *
 import random as r
+
+# Function to find difference between given sentence and sentence typed by user.
 
 def mistake(paratest,usertest):
     error = 0
@@ -10,12 +14,15 @@ def mistake(paratest,usertest):
         except :
             error = error + 1
     return error
-
+# Function to find speed and time taken by the user 
 def speed_time (time_s,time_e,userinput):
     time_delay = time_e - time_s
     time_r = round(time_delay,2)
     speed = len(userinput)/time_r
     return round(speed)
+    
+# Main Function
+
 if __name__ == "__main__":
     while True :
         ck = input(" ready to test : yes / no : ")
