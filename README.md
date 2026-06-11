@@ -1,5 +1,7 @@
 # ⌨️ TypeMaster Pro — Premium Typing Speed Test
 
+**🌍 Live Demo:** [TypeMaster Pro](https://typing-speed-test-two-eta.vercel.app/)
+
 Welcome to **TypeMaster Pro**, a fully featured, highly polished typing speed test web application built entirely with HTML, CSS, and Vanilla JavaScript. It requires no backend, no databases, and no complex setup to run.
 
 ![TypeMaster Pro](https://via.placeholder.com/800x400.png?text=TypeMaster+Pro)
